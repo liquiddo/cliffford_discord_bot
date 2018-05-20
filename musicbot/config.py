@@ -306,7 +306,7 @@ class ConfigDefaults:
     spotify_clientid = None
     spotify_clientsecret = None
 
-    command_prefix = '!'
+    command_prefix = '@_cliffford'
     bound_channels = set()
     autojoin_channels = set()
 
